@@ -1,5 +1,5 @@
 """
-OrcaSlicer filamenttiprofiiin luonti Creality K1C:lle (0.4 mm suutin).
+OrcaSlicer filamenttiprofiilin luonti Creality K1C:lle (0.4 mm suutin).
 Filamenttipresetit Orca-tyylisessä JSON-muodossa, heuristiikan tai LLM:n tekeminä.
 """
 
