@@ -1,6 +1,6 @@
 # OrcaSlicer Filamentti-Profiilien Luontityökalu
 
-AI:lla vahvistettu työkalu OrcaSlicer-filamenttiprofiilin luomiseen Creality K1C-lle.
+AI:lla vahvistettu työkalu OrcaSlicer-filamenttiprofiilin luomiseen Creality K1C-lle. Tällä ohjelmalla ei ole tarkoitus luoda valmista täydellistä profiilia, vaan aloitusprofiili, jota parannetaan itse tekemällä optimisaatiotestejä.
 
 ## Ominaisuudet
 
